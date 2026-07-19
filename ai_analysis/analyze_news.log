@@ -1,0 +1,18 @@
+01:57:41  INFO      =======================================================
+01:57:41  INFO      📰 154 articles pending AI analysis (total DB)
+01:57:41  INFO      📋 3 selected for this run
+01:57:41  INFO      🤖 Model: deepseek-v4-pro
+01:57:41  INFO      📊 Batch size: 10
+01:57:41  INFO      =======================================================
+01:57:41  INFO      --- Batch 1-3 / 3 ---
+01:57:44  INFO      HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+01:57:51  INFO        → 3 analyzed, 3 total
+
+01:57:52  INFO      =======================================================
+01:57:52  INFO      ✅ Analysis complete: 3/157 articles analyzed
+01:57:52  INFO      Sentiment breakdown:
+01:57:52  INFO        None      : 151
+01:57:52  INFO        positive  : 1
+01:57:52  INFO        negative  : 1
+01:57:52  INFO        mixed     : 1
+01:57:52  INFO      =======================================================

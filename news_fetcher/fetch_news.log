@@ -1,0 +1,1357 @@
+2026-07-20 00:37:22  INFO      Single-shot fetch…
+2026-07-20 00:37:23  INFO        BBC  →  31 articles fetched,  30 new
+2026-07-20 00:37:23  INFO        CNN  → 101 articles fetched, 101 new
+2026-07-20 00:37:24  INFO        NPR  →  20 articles fetched,  20 new
+2026-07-20 00:37:24  INFO      Total articles in DB: 151
+2026-07-20 00:37:36  INFO      =======================================================
+2026-07-20 00:37:36  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 00:37:36  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 00:37:36  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 00:37:36  INFO      Press Ctrl+C to stop
+2026-07-20 00:37:36  INFO      =======================================================
+2026-07-20 00:37:36  INFO      Cycle #1 — 16:37:36 UTC
+2026-07-20 00:37:37  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:37:37  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:37:37  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:38:37  INFO      Cycle #2 — 16:38:37 UTC
+2026-07-20 00:38:38  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:38:39  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:38:40  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:39:40  INFO      Cycle #3 — 16:39:40 UTC
+2026-07-20 00:39:41  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:39:41  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:39:42  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:40:42  INFO      Cycle #4 — 16:40:42 UTC
+2026-07-20 00:40:43  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:40:43  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:40:57  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:41:57  INFO      Cycle #5 — 16:41:57 UTC
+2026-07-20 00:41:58  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:41:58  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:41:58  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:42:58  INFO      Cycle #6 — 16:42:58 UTC
+2026-07-20 00:42:59  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:42:59  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:43:00  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:44:00  INFO      Cycle #7 — 16:44:00 UTC
+2026-07-20 00:44:01  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:44:01  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:44:02  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:45:02  INFO      Cycle #8 — 16:45:02 UTC
+2026-07-20 00:45:03  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:45:03  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:45:04  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:46:04  INFO      Cycle #9 — 16:46:04 UTC
+2026-07-20 00:46:05  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:46:05  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:46:05  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:47:05  INFO      Cycle #10 — 16:47:05 UTC
+2026-07-20 00:47:06  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:47:06  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:47:06  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:47:06  INFO        📊 DB total: 151 articles  (BBC: 30 | CNN: 101 | NPR: 20)
+2026-07-20 00:48:07  INFO      Cycle #11 — 16:48:07 UTC
+2026-07-20 00:48:07  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:48:08  INFO        NPR  →  20 articles fetched,   2 new
+2026-07-20 00:48:09  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:49:09  INFO      Cycle #12 — 16:49:09 UTC
+2026-07-20 00:49:10  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:49:10  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:49:11  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:50:11  INFO      Cycle #13 — 16:50:11 UTC
+2026-07-20 00:50:12  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:50:12  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:50:13  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:51:13  INFO      Cycle #14 — 16:51:13 UTC
+2026-07-20 00:51:14  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:51:15  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:51:29  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:52:29  INFO      Cycle #15 — 16:52:29 UTC
+2026-07-20 00:52:30  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:52:30  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:52:30  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:53:30  INFO      Cycle #16 — 16:53:30 UTC
+2026-07-20 00:53:31  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:53:32  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:53:32  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:54:32  INFO      Cycle #17 — 16:54:32 UTC
+2026-07-20 00:54:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:54:35  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:54:39  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:55:39  INFO      Cycle #18 — 16:55:39 UTC
+2026-07-20 00:55:40  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:55:40  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:55:40  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:56:40  INFO      Cycle #19 — 16:56:40 UTC
+2026-07-20 00:56:41  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:56:41  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:56:42  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:57:42  INFO      Cycle #20 — 16:57:42 UTC
+2026-07-20 00:57:42  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 00:57:43  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 00:57:44  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 00:57:44  INFO        📊 DB total: 153 articles  (BBC: 30 | CNN: 101 | NPR: 22)
+2026-07-20 00:58:33  INFO      Single-shot fetch…
+2026-07-20 00:58:41  INFO        NPR  →  20 articles fetched,  20 new
+2026-07-20 00:58:46  INFO        BBC  →  31 articles fetched,  30 new
+2026-07-20 00:58:47  INFO        CNN  → 101 articles fetched, 101 new
+2026-07-20 00:58:47  INFO      Total articles in DB: 151
+2026-07-20 01:00:05  INFO      Single-shot fetch…
+2026-07-20 01:00:11  INFO        NPR  →  20 articles fetched,  20 new
+2026-07-20 01:00:13  INFO        CNN  → 101 articles fetched, 101 new
+2026-07-20 01:00:13  INFO        BBC  →  31 articles fetched,  30 new
+2026-07-20 01:00:13  INFO      Total articles in DB: 151
+2026-07-20 01:00:35  INFO      =======================================================
+2026-07-20 01:00:35  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 01:00:35  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 01:00:35  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 01:00:35  INFO      Press Ctrl+C to stop
+2026-07-20 01:00:35  INFO      =======================================================
+2026-07-20 01:00:35  INFO      Cycle #1 — 17:00:35 UTC
+2026-07-20 01:00:43  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:00:44  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:00:52  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:01:52  INFO      Cycle #2 — 17:01:52 UTC
+2026-07-20 01:01:59  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:02:00  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:02:00  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:03:00  INFO      Cycle #3 — 17:03:00 UTC
+2026-07-20 01:03:07  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:03:08  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:03:09  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:04:09  INFO      Cycle #4 — 17:04:09 UTC
+2026-07-20 01:04:16  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:04:17  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:04:19  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:05:19  INFO      Cycle #5 — 17:05:19 UTC
+2026-07-20 01:05:26  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:05:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:05:30  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:06:30  INFO      Cycle #6 — 17:06:30 UTC
+2026-07-20 01:06:38  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:06:39  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:06:39  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:07:39  INFO      Cycle #7 — 17:07:39 UTC
+2026-07-20 01:07:46  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:07:47  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:07:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:08:50  INFO      Cycle #8 — 17:08:50 UTC
+2026-07-20 01:09:00  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:09:26  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:09:33  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:10:33  INFO      Cycle #9 — 17:10:33 UTC
+2026-07-20 01:10:42  INFO      Single-shot fetch…
+2026-07-20 01:10:42  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:10:43  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:10:43  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:10:43  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:10:43  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:10:43  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:10:43  INFO      Total articles in DB: 151
+2026-07-20 01:11:17  INFO      =======================================================
+2026-07-20 01:11:17  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 01:11:17  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 01:11:17  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 01:11:17  INFO      Press Ctrl+C to stop
+2026-07-20 01:11:17  INFO      =======================================================
+2026-07-20 01:11:17  INFO      Cycle #1 — 17:11:17 UTC
+2026-07-20 01:11:18  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:11:18  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:11:22  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:11:43  INFO      Cycle #10 — 17:11:43 UTC
+2026-07-20 01:11:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:11:51  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:11:55  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:11:55  INFO        📊 DB total: 151 articles  (BBC: 30 | CNN: 101 | NPR: 20)
+2026-07-20 01:12:22  INFO      Cycle #2 — 17:12:22 UTC
+2026-07-20 01:12:23  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:12:24  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:12:24  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:12:55  INFO      Cycle #11 — 17:12:55 UTC
+2026-07-20 01:13:02  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:13:03  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:13:04  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:13:24  INFO      Cycle #3 — 17:13:24 UTC
+2026-07-20 01:13:25  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:13:25  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:13:26  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:14:04  INFO      Cycle #12 — 17:14:04 UTC
+2026-07-20 01:14:10  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:14:12  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:14:13  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:14:26  INFO      Cycle #4 — 17:14:26 UTC
+2026-07-20 01:14:27  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:14:27  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:14:27  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:15:13  INFO      Cycle #13 — 17:15:13 UTC
+2026-07-20 01:15:21  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:15:25  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:15:27  INFO      Cycle #5 — 17:15:27 UTC
+2026-07-20 01:15:28  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:15:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:15:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:15:28  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:16:28  INFO      Cycle #14 — 17:16:28 UTC
+2026-07-20 01:16:28  INFO      Cycle #6 — 17:16:28 UTC
+2026-07-20 01:16:30  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:16:34  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:16:59  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:17:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:17:10  ERROR     CNN fetch failed: HTTPSConnectionPool(host='lite.cnn.com', port=443): Read timed out.
+2026-07-20 01:17:10  INFO        CNN  →   0 articles fetched,   0 new
+2026-07-20 01:17:34  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:17:59  INFO      Cycle #7 — 17:17:59 UTC
+2026-07-20 01:18:00  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:18:00  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:18:00  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:18:34  INFO      Cycle #15 — 17:18:34 UTC
+2026-07-20 01:18:41  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:18:41  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:18:42  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:19:00  INFO      Cycle #8 — 17:19:00 UTC
+2026-07-20 01:19:01  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:19:01  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:19:03  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:19:42  INFO      Cycle #16 — 17:19:42 UTC
+2026-07-20 01:19:48  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:19:49  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:19:52  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:20:03  INFO      Cycle #9 — 17:20:03 UTC
+2026-07-20 01:20:04  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:20:04  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:20:04  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:20:52  INFO      Cycle #17 — 17:20:52 UTC
+2026-07-20 01:21:04  INFO      Cycle #10 — 17:21:04 UTC
+2026-07-20 01:21:05  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:21:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:21:13  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:21:13  INFO        📊 DB total: 151 articles  (BBC: 30 | CNN: 101 | NPR: 20)
+2026-07-20 01:21:15  ERROR     CNN fetch failed: HTTPSConnectionPool(host='lite.cnn.com', port=443): Read timed out.
+2026-07-20 01:21:15  INFO        CNN  →   0 articles fetched,   0 new
+2026-07-20 01:21:20  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:21:41  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:22:13  INFO      Cycle #11 — 17:22:13 UTC
+2026-07-20 01:22:14  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:22:14  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:22:15  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:22:41  INFO      Cycle #18 — 17:22:41 UTC
+2026-07-20 01:22:49  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:22:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:22:52  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:23:15  INFO      Cycle #12 — 17:23:15 UTC
+2026-07-20 01:23:15  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:23:16  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:23:17  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:23:52  INFO      Cycle #19 — 17:23:52 UTC
+2026-07-20 01:23:59  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:23:59  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:23:59  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:24:17  INFO      Cycle #13 — 17:24:17 UTC
+2026-07-20 01:24:18  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:24:18  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:24:18  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:24:59  INFO      Cycle #20 — 17:24:59 UTC
+2026-07-20 01:25:06  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:25:06  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:25:07  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:25:07  INFO        📊 DB total: 151 articles  (BBC: 30 | CNN: 101 | NPR: 20)
+2026-07-20 01:25:18  INFO      Cycle #14 — 17:25:18 UTC
+2026-07-20 01:25:19  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:25:19  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:25:20  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:26:08  INFO      Cycle #21 — 17:26:08 UTC
+2026-07-20 01:26:14  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:26:15  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:26:16  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:26:20  INFO      Cycle #15 — 17:26:20 UTC
+2026-07-20 01:26:21  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:26:21  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:26:21  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:27:16  INFO      Cycle #22 — 17:27:16 UTC
+2026-07-20 01:27:21  INFO      Cycle #16 — 17:27:21 UTC
+2026-07-20 01:27:22  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:27:22  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:27:22  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:27:23  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:27:24  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:27:27  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:28:22  INFO      Cycle #17 — 17:28:22 UTC
+2026-07-20 01:28:23  INFO        BBC  →  31 articles fetched,   1 new
+2026-07-20 01:28:23  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:28:23  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:28:27  INFO      Cycle #23 — 17:28:27 UTC
+2026-07-20 01:28:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:28:34  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:28:35  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:29:23  INFO      Cycle #18 — 17:29:23 UTC
+2026-07-20 01:29:24  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:29:24  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:29:25  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:29:35  INFO      Cycle #24 — 17:29:35 UTC
+2026-07-20 01:29:42  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:29:42  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:29:43  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:30:25  INFO      Cycle #19 — 17:30:25 UTC
+2026-07-20 01:30:26  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:30:26  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:30:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:30:43  INFO      Cycle #25 — 17:30:43 UTC
+2026-07-20 01:30:50  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:30:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:30:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:31:28  INFO      Cycle #20 — 17:31:28 UTC
+2026-07-20 01:31:29  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:31:29  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:31:29  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:31:29  INFO        📊 DB total: 152 articles  (BBC: 31 | CNN: 101 | NPR: 20)
+2026-07-20 01:31:50  INFO      Cycle #26 — 17:31:50 UTC
+2026-07-20 01:31:56  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:31:57  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:31:57  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:32:29  INFO      Cycle #21 — 17:32:29 UTC
+2026-07-20 01:32:30  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:32:30  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:32:30  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:32:57  INFO      Cycle #27 — 17:32:57 UTC
+2026-07-20 01:33:23  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:33:30  INFO      Cycle #22 — 17:33:30 UTC
+2026-07-20 01:33:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:33:34  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:33:35  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:33:43  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:33:43  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:34:35  INFO      Cycle #23 — 17:34:35 UTC
+2026-07-20 01:34:36  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:34:36  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:34:36  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:34:43  INFO      Cycle #28 — 17:34:43 UTC
+2026-07-20 01:34:52  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:35:01  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:35:14  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:35:36  INFO      Cycle #24 — 17:35:36 UTC
+2026-07-20 01:35:39  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:35:39  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:35:44  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:39:27  INFO      Single-shot fetch…
+2026-07-20 01:39:28  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:28  INFO        BBC  →  31 articles fetched,  30 new
+2026-07-20 01:39:28  INFO        CNN  → 101 articles fetched, 101 new
+2026-07-20 01:39:28  INFO        NPR  →  20 articles fetched,  20 new
+2026-07-20 01:39:28  INFO      Total articles in DB: 151
+2026-07-20 01:39:49  INFO      =======================================================
+2026-07-20 01:39:49  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 01:39:49  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 01:39:49  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 01:39:49  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 01:39:49  INFO      Press Ctrl+C to stop
+2026-07-20 01:39:49  INFO      =======================================================
+2026-07-20 01:39:49  INFO      Cycle #1 — 17:39:49 UTC
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/sport/england-france-world-cup-third-place]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/us-ev-outlook]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/legionnaires-death-nyc]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/troy-jackson-graham-platner-maine]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/ice-cream-prices-butter]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/europe/russia-ukraine-ballistic-missiles-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/travel/sisters-stuck-hotel-room-great-escapes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/world/facebook-instagram-outages-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/tech/apple-google-ai-eu-regulations]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/us/houston-ice-shooting-investigation-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/ukraine-nikopol-drone-attacks-adapting-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/tate-brothers-arrested-miami]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/americas/venezuela-pets-earthquake-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/mamdani-netanyahu-new-york]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-taylor-farms-lettuce-recall]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/iran-war-us-service-members-killed-jordan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/cuba-activist-exile-us-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-canada-wildfire-smoke-tariffs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/ralph-norman-lindsey-graham-race-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/economy/inheritance-biggest-advantage-us-economy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/gabriel-hurtado-cariaco-video-evidence-ice-arrest]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/protests-venice-italy-us-envoy-yacht-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-prediction-markets-michigan-kalshi]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/weather/el-nino-atlantic-hurricane-season-climate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/spahn-resignation-germany-surrogate-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/eight-killed-in-ukrainian-drone-attacks-on-russian-warehouses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/trump-dc-golf-course-east-potomac-links-takeover]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/surveillance-selfies-ring-cameras-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/entertainment/odyssey-trojan-horse-scene-nolan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-what-to-do-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/revolutionary-war-bones-dna-genealogy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/ice-officers-car-stops-shootings]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/business/andy-burnham-manchester-mayor-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/middleeast/iran-hardliners-coup-warning-us-truce-intl-cmd]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/democrats-israel-hakeem-jeffries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/climate/italy-manila-clam-blue-crab-invasion]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/forest-service-workers-held-hostage-california]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/americas/canada-wildfire-destroys-collins-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/houston-ice-shooting-search-warrant]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/paul-pelosi-charged-misdemeanor-hit-and-run]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/wildfire-smoke-masks-ventilation-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/bryson-dechambeau-penalized-british-open-second-round]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/health/cyclospora-outbreak-shredded-lettuce]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/mexico-earthquake-chiapas-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/china-election-trump-xi-state-visit]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/weather/air-quality-wildfire-smoke-chemistry-brown-carbon]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-corruption-truth-social]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/darline-graham-trump-south-carolina-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/las-vegas-airport-ice-agents]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/election-officials-voting-mullin-save]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/investing/us-stocks-asia]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/media/rob-bonta-cnn-paramount-wbd-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/epstein-survivors-lesley-groff-congress]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/mlb-labor-battle-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/today-show-intruder-security-breach]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/military-aid-israel-democrats-split-vote]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/word-of-week-ceasefire-iran-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/taco-bell-diarrhea]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/style/rosebush-pruning-costume]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/economy/us-consumer-sentiment-july-preliminary]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/brenda-fricker-oscar-actress-dies-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/uk/andy-burnham-labour-leader-uk-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/takeaways-trump-election-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/what-trumps-newly-declassified-documents-do-and-dont-tell-us-about-threats-to-us-elections]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/heartstopper-forever-netflix-heated-rivalry]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/europe/ireland-domestic-violence-register-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/food/chilis-president-renovation-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/middleeast/netanyahu-controversial-legislation-allies-election-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/venezuela-earthquake-deportation-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/obama-michigan-senate-stevens-el-sayed-ads]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/climate/betting-wildfires-polymarket-prediction-market-platforms]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/america-fixer-upper-homes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/key-moments-trump-primetime-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-maga-base-shrinking]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/media/trump-election-address-cbs-abc-nbc-fox-networks]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/maine-senate-debate-graham-platner-takeaways]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/todd-blanche-senate-hearing-witnesses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/national-guard-deployment-dc-trump]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/health/cyclosporiasis-parasite-food-safe-avoid]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/mike-johnson-veterans-bill]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-primetime-election-speech-debate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/truth-social-data-wall-street]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-speech-kalshi-bets]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/rubio-meeting-on-far-left-political-terrorism-with-65-countries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/nyc-helicopter-birds-ntsb]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/daniel-erving-death]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/icc-prosecutor-allegations-interview-un-investigation-amanpour-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/karoline-leavitt-maternity-leave-briefing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/fetterman-democratic-party-anti-israel]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/economy/us-mortgage-rates]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/russia-ukraine-attack-keir-starmer-visit-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-iran-deal-poll-obama]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/gas-diesel-prices-iran]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/entertainment/brad-pitt-kids-ditch-surname-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  WARNING   DB insert error [https://www.cnn.com/]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyml03r1e9o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/w3ct8lzc?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/iplayer/episodes/m002z1wj/watch/p0nyz55k?at_mid=AwZqPanva1&at_campaign=Making_The_Case_Trailer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1wj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Making_The_Case_Trailer&at_bbc_team=BBC]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5894692]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5899039]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-134475]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5899071]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-134001]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5866605]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5899009]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5899020]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5891817]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/1180750232]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-134179]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-134227]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-134037]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5884849]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5897509]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5899518]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5897460]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5887363]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/nx-s1-5897510]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  WARNING   DB insert error [https://text.npr.org/g-s1-133556]: UNIQUE constraint failed: articles.url
+2026-07-20 01:39:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:40:50  INFO      Cycle #2 — 17:40:50 UTC
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/sport/england-france-world-cup-third-place]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/us-ev-outlook]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/legionnaires-death-nyc]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/troy-jackson-graham-platner-maine]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/ice-cream-prices-butter]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/europe/russia-ukraine-ballistic-missiles-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/travel/sisters-stuck-hotel-room-great-escapes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/world/facebook-instagram-outages-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/tech/apple-google-ai-eu-regulations]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/us/houston-ice-shooting-investigation-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/ukraine-nikopol-drone-attacks-adapting-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/tate-brothers-arrested-miami]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/americas/venezuela-pets-earthquake-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/mamdani-netanyahu-new-york]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-taylor-farms-lettuce-recall]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/iran-war-us-service-members-killed-jordan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/cuba-activist-exile-us-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-canada-wildfire-smoke-tariffs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/ralph-norman-lindsey-graham-race-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/economy/inheritance-biggest-advantage-us-economy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/gabriel-hurtado-cariaco-video-evidence-ice-arrest]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/protests-venice-italy-us-envoy-yacht-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-prediction-markets-michigan-kalshi]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/weather/el-nino-atlantic-hurricane-season-climate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/spahn-resignation-germany-surrogate-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/eight-killed-in-ukrainian-drone-attacks-on-russian-warehouses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/trump-dc-golf-course-east-potomac-links-takeover]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/surveillance-selfies-ring-cameras-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/entertainment/odyssey-trojan-horse-scene-nolan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-what-to-do-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/revolutionary-war-bones-dna-genealogy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/ice-officers-car-stops-shootings]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/business/andy-burnham-manchester-mayor-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/middleeast/iran-hardliners-coup-warning-us-truce-intl-cmd]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/democrats-israel-hakeem-jeffries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/climate/italy-manila-clam-blue-crab-invasion]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/forest-service-workers-held-hostage-california]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/americas/canada-wildfire-destroys-collins-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/houston-ice-shooting-search-warrant]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/paul-pelosi-charged-misdemeanor-hit-and-run]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/wildfire-smoke-masks-ventilation-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/bryson-dechambeau-penalized-british-open-second-round]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/health/cyclospora-outbreak-shredded-lettuce]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/mexico-earthquake-chiapas-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/china-election-trump-xi-state-visit]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/weather/air-quality-wildfire-smoke-chemistry-brown-carbon]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-corruption-truth-social]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/darline-graham-trump-south-carolina-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/las-vegas-airport-ice-agents]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/election-officials-voting-mullin-save]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/investing/us-stocks-asia]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/media/rob-bonta-cnn-paramount-wbd-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/epstein-survivors-lesley-groff-congress]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/mlb-labor-battle-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/today-show-intruder-security-breach]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/military-aid-israel-democrats-split-vote]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/word-of-week-ceasefire-iran-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/taco-bell-diarrhea]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/style/rosebush-pruning-costume]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/economy/us-consumer-sentiment-july-preliminary]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/brenda-fricker-oscar-actress-dies-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/uk/andy-burnham-labour-leader-uk-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/takeaways-trump-election-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/what-trumps-newly-declassified-documents-do-and-dont-tell-us-about-threats-to-us-elections]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/heartstopper-forever-netflix-heated-rivalry]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/europe/ireland-domestic-violence-register-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/food/chilis-president-renovation-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/middleeast/netanyahu-controversial-legislation-allies-election-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/venezuela-earthquake-deportation-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/obama-michigan-senate-stevens-el-sayed-ads]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/climate/betting-wildfires-polymarket-prediction-market-platforms]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/america-fixer-upper-homes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/key-moments-trump-primetime-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-maga-base-shrinking]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/media/trump-election-address-cbs-abc-nbc-fox-networks]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/maine-senate-debate-graham-platner-takeaways]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/todd-blanche-senate-hearing-witnesses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/national-guard-deployment-dc-trump]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/health/cyclosporiasis-parasite-food-safe-avoid]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/mike-johnson-veterans-bill]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-primetime-election-speech-debate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/truth-social-data-wall-street]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-speech-kalshi-bets]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/rubio-meeting-on-far-left-political-terrorism-with-65-countries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/nyc-helicopter-birds-ntsb]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/daniel-erving-death]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/icc-prosecutor-allegations-interview-un-investigation-amanpour-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/karoline-leavitt-maternity-leave-briefing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/fetterman-democratic-party-anti-israel]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/economy/us-mortgage-rates]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/russia-ukraine-attack-keir-starmer-visit-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-iran-deal-poll-obama]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/gas-diesel-prices-iran]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/entertainment/brad-pitt-kids-ditch-surname-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  WARNING   DB insert error [https://www.cnn.com/]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5894692]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5899039]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-134475]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5899071]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-134001]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5866605]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5899009]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5899020]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5891817]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/1180750232]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-134179]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-134227]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-134037]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5884849]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5897509]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5899518]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5897460]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5887363]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/nx-s1-5897510]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  WARNING   DB insert error [https://text.npr.org/g-s1-133556]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:51  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyml03r1e9o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/w3ct8lzc?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/iplayer/episodes/m002z1wj/watch/p0nyz55k?at_mid=AwZqPanva1&at_campaign=Making_The_Case_Trailer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1wj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Making_The_Case_Trailer&at_bbc_team=BBC]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  WARNING   DB insert error [https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:40:52  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:41:52  INFO      Cycle #3 — 17:41:52 UTC
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/sport/england-france-world-cup-third-place]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/us-ev-outlook]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/legionnaires-death-nyc]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/troy-jackson-graham-platner-maine]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/ice-cream-prices-butter]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/europe/russia-ukraine-ballistic-missiles-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/travel/sisters-stuck-hotel-room-great-escapes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/world/facebook-instagram-outages-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/tech/apple-google-ai-eu-regulations]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/us/houston-ice-shooting-investigation-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/ukraine-nikopol-drone-attacks-adapting-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/tate-brothers-arrested-miami]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/americas/venezuela-pets-earthquake-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/mamdani-netanyahu-new-york]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-taylor-farms-lettuce-recall]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/iran-war-us-service-members-killed-jordan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/david-brouillette-injuries-ice-maine-shooting-invs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/cuba-activist-exile-us-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-canada-wildfire-smoke-tariffs]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/ralph-norman-lindsey-graham-race-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/economy/inheritance-biggest-advantage-us-economy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/gabriel-hurtado-cariaco-video-evidence-ice-arrest]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/protests-venice-italy-us-envoy-yacht-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-prediction-markets-michigan-kalshi]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/weather/el-nino-atlantic-hurricane-season-climate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/spahn-resignation-germany-surrogate-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/europe/eight-killed-in-ukrainian-drone-attacks-on-russian-warehouses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/trump-dc-golf-course-east-potomac-links-takeover]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/travel/travel-news-busiest-airports-2025]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/surveillance-selfies-ring-cameras-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/entertainment/odyssey-trojan-horse-scene-nolan]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/saudi-arabia-trump-nuclear-enrichment]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/health/cyclospora-what-to-do-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/revolutionary-war-bones-dna-genealogy]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/ice-officers-car-stops-shootings]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/business/andy-burnham-manchester-mayor-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/middleeast/iran-hardliners-coup-warning-us-truce-intl-cmd]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/politics/democrats-israel-hakeem-jeffries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/climate/italy-manila-clam-blue-crab-invasion]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/us/forest-service-workers-held-hostage-california]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/americas/canada-wildfire-destroys-collins-latam-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/houston-ice-shooting-search-warrant]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/paul-pelosi-charged-misdemeanor-hit-and-run]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/wildfire-smoke-masks-ventilation-wellness]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/bryson-dechambeau-penalized-british-open-second-round]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/health/cyclospora-outbreak-shredded-lettuce]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/mexico-earthquake-chiapas-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/china-election-trump-xi-state-visit]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/weather/air-quality-wildfire-smoke-chemistry-brown-carbon]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-corruption-truth-social]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/darline-graham-trump-south-carolina-senate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/las-vegas-airport-ice-agents]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/tech/meta-anthropic-ai-cloud-computing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/election-officials-voting-mullin-save]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/investing/us-stocks-asia]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/media/rob-bonta-cnn-paramount-wbd-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/epstein-survivors-lesley-groff-congress]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/sport/mlb-labor-battle-analysis]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/today-show-intruder-security-breach]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/politics/military-aid-israel-democrats-split-vote]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/us/word-of-week-ceasefire-iran-cec]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/taco-bell-diarrhea]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/style/rosebush-pruning-costume]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/economy/us-consumer-sentiment-july-preliminary]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/brenda-fricker-oscar-actress-dies-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/uk/andy-burnham-labour-leader-uk-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/takeaways-trump-election-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/what-trumps-newly-declassified-documents-do-and-dont-tell-us-about-threats-to-us-elections]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/entertainment/heartstopper-forever-netflix-heated-rivalry]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/europe/ireland-domestic-violence-register-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/food/chilis-president-renovation-interview]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/middleeast/netanyahu-controversial-legislation-allies-election-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/americas/venezuela-earthquake-deportation-intl-latam]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/obama-michigan-senate-stevens-el-sayed-ads]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/climate/betting-wildfires-polymarket-prediction-market-platforms]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/business/america-fixer-upper-homes]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/key-moments-trump-primetime-speech]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/china/china-ai-conference-analysis-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/politics/trump-maga-base-shrinking]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/media/trump-election-address-cbs-abc-nbc-fox-networks]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/maine-senate-debate-graham-platner-takeaways]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/todd-blanche-senate-hearing-witnesses]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/national-guard-deployment-dc-trump]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/health/cyclosporiasis-parasite-food-safe-avoid]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/mike-johnson-veterans-bill]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-primetime-election-speech-debate]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/truth-social-data-wall-street]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-speech-kalshi-bets]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/rubio-meeting-on-far-left-political-terrorism-with-65-countries]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/us/nyc-helicopter-birds-ntsb]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/us/daniel-erving-death]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/icc-prosecutor-allegations-interview-un-investigation-amanpour-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/karoline-leavitt-maternity-leave-briefing]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/fetterman-democratic-party-anti-israel]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/economy/us-mortgage-rates]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/europe/russia-ukraine-attack-keir-starmer-visit-intl-hnk]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/politics/trump-iran-deal-poll-obama]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/business/gas-diesel-prices-iran]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://lite.cnn.com/2026/07/16/entertainment/brad-pitt-kids-ditch-surname-scli-intl]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.cnn.com/]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5894692]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5899039]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-134475]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5899071]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-134001]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5866605]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5899009]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5899020]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5891817]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/1180750232]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-134179]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-134227]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-134037]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5884849]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5897509]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5899518]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5897460]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5887363]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/nx-s1-5897510]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://text.npr.org/g-s1-133556]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/crmrznw82j4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cvgq2qr9gxdo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/cwyml03r1e9o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/articles/c70gz5y2xpxo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/p0nyjw5h?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sounds/play/w3ct8lzc?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/iplayer/episodes/m002z1wj/watch/p0nyz55k?at_mid=AwZqPanva1&at_campaign=Making_The_Case_Trailer&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1wj&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Making_The_Case_Trailer&at_bbc_team=BBC]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/formula1/articles/cevmymn2kd8o?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  WARNING   DB insert error [https://www.bbc.co.uk/sport/cricket/videos/cj9dnek1m2do?at_medium=RSS&at_campaign=rss]: UNIQUE constraint failed: articles.url
+2026-07-20 01:41:53  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:42:53  INFO      Cycle #4 — 17:42:53 UTC
+2026-07-20 01:42:59  WARNING   DB insert error [https://lite.cnn.com/2026/07/18/sport/england-france-world-cup-third-place]: database is locked
+2026-07-20 01:43:05  WARNING   DB insert error [https://lite.cnn.com/2026/07/19/business/us-ev-outlook]: database is locked
+2026-07-20 01:43:10  WARNING   DB insert error [https://lite.cnn.com/2026/07/17/health/legionnaires-death-nyc]: database is locked
+2026-07-20 01:44:09  INFO      Single-shot fetch…
+2026-07-20 01:44:10  INFO        BBC  →  31 articles fetched,  30 new
+2026-07-20 01:44:10  INFO        NPR  →  20 articles fetched,  20 new
+2026-07-20 01:44:10  INFO        CNN  → 101 articles fetched, 101 new
+2026-07-20 01:44:10  INFO      Total articles in DB: 151
+2026-07-20 01:44:35  INFO      =======================================================
+2026-07-20 01:44:35  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 01:44:35  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 01:44:35  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 01:44:35  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 01:44:35  INFO      Press Ctrl+C to stop
+2026-07-20 01:44:35  INFO      =======================================================
+2026-07-20 01:44:35  INFO      Cycle #1 — 17:44:35 UTC
+2026-07-20 01:44:36  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:44:36  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:44:36  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:45:36  INFO      Cycle #2 — 17:45:36 UTC
+2026-07-20 01:45:37  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:45:37  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:45:37  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:46:37  INFO      Cycle #3 — 17:46:37 UTC
+2026-07-20 01:46:38  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:46:38  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:46:41  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:47:41  INFO      Cycle #4 — 17:47:41 UTC
+2026-07-20 01:47:42  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:47:43  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:47:45  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:48:45  INFO      Cycle #5 — 17:48:45 UTC
+2026-07-20 01:48:45  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:48:45  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:48:45  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:49:45  INFO      Cycle #6 — 17:49:45 UTC
+2026-07-20 01:49:46  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:49:47  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:49:47  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:50:47  INFO      Cycle #7 — 17:50:47 UTC
+2026-07-20 01:50:48  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:50:49  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:50:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:51:50  INFO      Cycle #8 — 17:51:50 UTC
+2026-07-20 01:51:51  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:51:51  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:51:51  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:52:51  INFO      Cycle #9 — 17:52:51 UTC
+2026-07-20 01:52:52  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:52:53  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:52:54  INFO        CNN  → 101 articles fetched,   1 new
+2026-07-20 01:53:54  INFO      Cycle #10 — 17:53:54 UTC
+2026-07-20 01:53:55  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:53:55  INFO        BBC  →  31 articles fetched,   0 new
+2026-07-20 01:53:56  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:53:56  INFO        📊 DB: 152 total | 9 with body | (BBC: 30 | CNN: 102 | NPR: 20)
+2026-07-20 01:54:56  INFO      Cycle #11 — 17:54:56 UTC
+2026-07-20 01:54:57  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:54:57  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:54:57  INFO        BBC  →  32 articles fetched,   1 new
+2026-07-20 01:55:57  INFO      Cycle #12 — 17:55:57 UTC
+2026-07-20 01:55:58  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:55:58  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:55:58  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 01:56:59  INFO      Cycle #13 — 17:56:59 UTC
+2026-07-20 01:56:59  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:56:59  INFO        BBC  →  32 articles fetched,   1 new
+2026-07-20 01:57:00  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:58:00  INFO      Cycle #14 — 17:58:00 UTC
+2026-07-20 01:58:01  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:58:01  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:58:01  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 01:59:01  INFO      Cycle #15 — 17:59:01 UTC
+2026-07-20 01:59:02  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 01:59:02  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 01:59:02  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:00:02  INFO      Cycle #16 — 18:00:02 UTC
+2026-07-20 02:00:03  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:00:03  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:00:03  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:01:03  INFO      Cycle #17 — 18:01:03 UTC
+2026-07-20 02:01:04  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:01:04  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:01:05  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:02:05  INFO      Cycle #18 — 18:02:05 UTC
+2026-07-20 02:02:06  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:02:06  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:02:06  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:03:06  INFO      Cycle #19 — 18:03:06 UTC
+2026-07-20 02:03:07  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:03:07  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:03:07  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:03:45  INFO      =======================================================
+2026-07-20 02:03:45  INFO      News Fetcher started — polling every 60 seconds
+2026-07-20 02:03:45  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 02:03:45  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 02:03:45  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 02:03:45  INFO      Press Ctrl+C to stop
+2026-07-20 02:03:45  INFO      =======================================================
+2026-07-20 02:03:45  INFO      Cycle #1 — 18:03:45 UTC
+2026-07-20 02:03:45  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:03:45  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:03:45  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:04:07  INFO      Cycle #20 — 18:04:07 UTC
+2026-07-20 02:04:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:04:08  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:04:08  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:04:08  INFO        📊 DB: 154 total | 9 with body | (BBC: 32 | CNN: 102 | NPR: 20)
+2026-07-20 02:04:46  INFO      Cycle #2 — 18:04:46 UTC
+2026-07-20 02:04:46  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:04:46  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:04:46  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:05:08  INFO      Cycle #21 — 18:05:08 UTC
+2026-07-20 02:05:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:05:08  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:05:08  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:05:46  INFO      Cycle #3 — 18:05:46 UTC
+2026-07-20 02:05:47  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:05:47  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:05:47  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:06:09  INFO      Cycle #22 — 18:06:09 UTC
+2026-07-20 02:06:09  INFO        BBC  →  32 articles fetched,   1 new
+2026-07-20 02:06:09  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:06:10  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:06:47  INFO      Cycle #4 — 18:06:47 UTC
+2026-07-20 02:06:48  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:06:48  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:06:48  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:07:10  INFO      Cycle #23 — 18:07:10 UTC
+2026-07-20 02:07:11  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:07:11  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:07:11  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:07:48  INFO      Cycle #5 — 18:07:48 UTC
+2026-07-20 02:07:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:07:49  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:07:49  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:08:11  INFO      Cycle #24 — 18:08:11 UTC
+2026-07-20 02:08:11  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:08:12  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:08:12  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:08:49  INFO      Cycle #6 — 18:08:49 UTC
+2026-07-20 02:08:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:08:50  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:08:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:09:12  INFO      Cycle #25 — 18:09:12 UTC
+2026-07-20 02:09:12  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:09:12  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:09:12  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:09:50  INFO      Cycle #7 — 18:09:50 UTC
+2026-07-20 02:09:51  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:09:51  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:09:51  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:10:13  INFO      Cycle #26 — 18:10:13 UTC
+2026-07-20 02:10:14  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:10:14  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:10:14  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:10:51  INFO      Cycle #8 — 18:10:51 UTC
+2026-07-20 02:10:52  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:10:52  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:10:52  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:11:14  INFO      Cycle #27 — 18:11:14 UTC
+2026-07-20 02:11:15  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:11:15  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:11:15  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:11:52  INFO      Cycle #9 — 18:11:52 UTC
+2026-07-20 02:11:53  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:11:53  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:11:53  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:12:15  INFO      Cycle #28 — 18:12:15 UTC
+2026-07-20 02:12:16  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:12:16  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:12:16  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:12:53  INFO      Cycle #10 — 18:12:53 UTC
+2026-07-20 02:12:54  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:12:54  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:12:54  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:12:54  INFO        📊 DB: 155 total | 9 with body | (BBC: 33 | CNN: 102 | NPR: 20)
+2026-07-20 02:13:16  INFO      Cycle #29 — 18:13:16 UTC
+2026-07-20 02:13:17  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:13:17  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:13:17  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:13:54  INFO      Cycle #11 — 18:13:54 UTC
+2026-07-20 02:13:55  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:13:55  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:13:55  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:14:17  INFO      Cycle #30 — 18:14:17 UTC
+2026-07-20 02:14:18  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:14:20  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:14:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:14:33  INFO        📊 DB: 155 total | 9 with body | (BBC: 33 | CNN: 102 | NPR: 20)
+2026-07-20 02:14:55  INFO      Cycle #12 — 18:14:55 UTC
+2026-07-20 02:14:57  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:14:58  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:14:59  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:15:33  INFO      Cycle #31 — 18:15:33 UTC
+2026-07-20 02:15:33  INFO        BBC  →  32 articles fetched,   1 new
+2026-07-20 02:15:33  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:15:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:15:59  INFO      Cycle #13 — 18:15:59 UTC
+2026-07-20 02:16:01  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:16:02  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:16:07  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:16:33  INFO      Cycle #32 — 18:16:33 UTC
+2026-07-20 02:16:38  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:16:41  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:16:51  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:17:07  INFO      Cycle #14 — 18:17:07 UTC
+2026-07-20 02:17:07  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:17:07  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:17:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:17:51  INFO      Cycle #33 — 18:17:51 UTC
+2026-07-20 02:17:52  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:17:52  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:17:52  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:18:08  INFO      Cycle #15 — 18:18:08 UTC
+2026-07-20 02:18:08  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:18:08  INFO        BBC  →  32 articles fetched,   0 new
+2026-07-20 02:18:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:18:52  INFO      Cycle #34 — 18:18:52 UTC
+2026-07-20 02:18:53  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:18:53  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:18:53  INFO        BBC  →  33 articles fetched,   1 new
+2026-07-20 02:19:08  INFO      Cycle #16 — 18:19:08 UTC
+2026-07-20 02:19:09  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:19:09  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:19:09  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:19:53  INFO      Cycle #35 — 18:19:53 UTC
+2026-07-20 02:19:54  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:19:54  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:19:54  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:20:09  INFO      Cycle #17 — 18:20:09 UTC
+2026-07-20 02:20:10  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:20:10  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:20:10  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:20:54  INFO      Cycle #36 — 18:20:54 UTC
+2026-07-20 02:20:55  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:20:55  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:20:55  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:21:10  INFO      Cycle #18 — 18:21:10 UTC
+2026-07-20 02:21:11  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:21:11  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:21:11  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:21:55  INFO      Cycle #37 — 18:21:55 UTC
+2026-07-20 02:21:57  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:21:57  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:21:58  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:22:11  INFO      Cycle #19 — 18:22:11 UTC
+2026-07-20 02:22:11  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:22:12  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:22:16  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:22:58  INFO      Cycle #38 — 18:22:58 UTC
+2026-07-20 02:23:00  INFO        BBC  →  33 articles fetched,   0 new
+2026-07-20 02:23:04  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:23:16  INFO      Cycle #20 — 18:23:16 UTC
+2026-07-20 02:23:18  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:23:19  INFO        BBC  →  34 articles fetched,   1 new
+2026-07-20 02:23:32  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:23:37  ERROR     NPR fetch failed: HTTPSConnectionPool(host='text.npr.org', port=443): Read timed out. (read timeout=20)
+2026-07-20 02:23:37  INFO        NPR  →   0 articles fetched,   0 new
+2026-07-20 02:23:37  INFO        📊 DB: 158 total | 9 with body | (BBC: 36 | CNN: 102 | NPR: 20)
+2026-07-20 02:24:18  INFO      Cycle #39 — 18:24:18 UTC
+2026-07-20 02:24:19  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:24:19  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:24:19  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:24:37  INFO      Cycle #21 — 18:24:37 UTC
+2026-07-20 02:24:38  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:24:38  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:24:38  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:25:19  INFO      Cycle #40 — 18:25:19 UTC
+2026-07-20 02:25:20  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:25:20  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:25:20  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:25:20  INFO        📊 DB: 158 total | 9 with body | (BBC: 36 | CNN: 102 | NPR: 20)
+2026-07-20 02:25:38  INFO      Cycle #22 — 18:25:38 UTC
+2026-07-20 02:25:39  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:25:39  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:25:39  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:26:20  INFO      Cycle #41 — 18:26:20 UTC
+2026-07-20 02:26:21  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:26:21  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:26:21  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:26:39  INFO      Cycle #23 — 18:26:39 UTC
+2026-07-20 02:26:40  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:26:40  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:26:40  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:27:21  INFO      Cycle #42 — 18:27:21 UTC
+2026-07-20 02:27:22  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:27:22  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:27:22  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:27:40  INFO      Cycle #24 — 18:27:40 UTC
+2026-07-20 02:27:40  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:27:40  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:27:41  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:28:22  INFO      Cycle #43 — 18:28:22 UTC
+2026-07-20 02:28:23  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:28:23  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:28:23  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:28:41  INFO      Cycle #25 — 18:28:41 UTC
+2026-07-20 02:28:41  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:28:41  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:28:41  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:29:23  INFO      Cycle #44 — 18:29:23 UTC
+2026-07-20 02:29:24  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:29:24  INFO        BBC  →  34 articles fetched,   1 new
+2026-07-20 02:29:26  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:29:41  INFO      Cycle #26 — 18:29:41 UTC
+2026-07-20 02:29:42  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:29:42  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:29:43  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:30:26  INFO      Cycle #45 — 18:30:26 UTC
+2026-07-20 02:30:27  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:30:27  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:30:27  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:30:43  INFO      Cycle #27 — 18:30:43 UTC
+2026-07-20 02:30:44  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:30:44  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:30:44  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:31:27  INFO      Cycle #46 — 18:31:27 UTC
+2026-07-20 02:31:28  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:31:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:31:28  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:31:44  INFO      Cycle #28 — 18:31:44 UTC
+2026-07-20 02:31:44  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:31:44  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:31:44  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:32:28  INFO      Cycle #47 — 18:32:28 UTC
+2026-07-20 02:32:29  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:32:29  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:32:29  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:32:44  INFO      Cycle #29 — 18:32:44 UTC
+2026-07-20 02:32:45  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:32:45  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:32:45  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:33:18  INFO      =======================================================
+2026-07-20 02:33:18  INFO      News Fetcher started — polling every 30 seconds
+2026-07-20 02:33:18  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 02:33:18  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 02:33:18  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 02:33:18  INFO      Press Ctrl+C to stop
+2026-07-20 02:33:18  INFO      =======================================================
+2026-07-20 02:33:18  INFO      Cycle #1 — 18:33:18 UTC
+2026-07-20 02:33:19  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:33:19  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:33:19  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:33:29  INFO      Cycle #48 — 18:33:29 UTC
+2026-07-20 02:33:30  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:33:30  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:33:30  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:33:45  INFO      Cycle #30 — 18:33:45 UTC
+2026-07-20 02:33:46  INFO        CNN  → 101 articles fetched,   1 new
+2026-07-20 02:33:46  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:33:46  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:33:46  INFO        📊 DB: 160 total | 9 with body | (BBC: 37 | CNN: 103 | NPR: 20)
+2026-07-20 02:33:49  INFO      Cycle #2 — 18:33:49 UTC
+2026-07-20 02:33:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:33:50  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:33:50  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:34:20  INFO      Cycle #3 — 18:34:20 UTC
+2026-07-20 02:34:21  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:34:21  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:34:21  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:34:30  INFO      Cycle #49 — 18:34:30 UTC
+2026-07-20 02:34:31  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:34:31  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:34:31  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:34:46  INFO      Cycle #31 — 18:34:46 UTC
+2026-07-20 02:34:47  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:34:47  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:34:47  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:34:51  INFO      Cycle #4 — 18:34:51 UTC
+2026-07-20 02:34:51  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:34:52  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:34:52  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:35:22  INFO      Cycle #5 — 18:35:22 UTC
+2026-07-20 02:35:22  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:35:22  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:35:22  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:35:31  INFO      Cycle #50 — 18:35:31 UTC
+2026-07-20 02:35:32  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:35:32  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:35:32  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:35:32  INFO        📊 DB: 160 total | 9 with body | (BBC: 37 | CNN: 103 | NPR: 20)
+2026-07-20 02:35:47  INFO      Cycle #32 — 18:35:47 UTC
+2026-07-20 02:35:48  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:35:48  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:35:48  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:35:55  INFO      =======================================================
+2026-07-20 02:35:55  INFO      News Fetcher started — polling every 30 seconds
+2026-07-20 02:35:55  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 02:35:55  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 02:35:55  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 02:35:55  INFO      Press Ctrl+C to stop
+2026-07-20 02:35:55  INFO      =======================================================
+2026-07-20 02:35:55  INFO      Cycle #1 — 18:35:55 UTC
+2026-07-20 02:35:55  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:35:55  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:35:55  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:36:25  INFO      Cycle #2 — 18:36:25 UTC
+2026-07-20 02:36:26  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:36:26  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:36:26  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:36:32  INFO      Cycle #51 — 18:36:32 UTC
+2026-07-20 02:36:33  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:36:33  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:36:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:36:48  INFO      Cycle #33 — 18:36:48 UTC
+2026-07-20 02:36:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:36:49  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:36:49  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:36:56  INFO      Cycle #3 — 18:36:56 UTC
+2026-07-20 02:36:57  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:36:57  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:36:57  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:37:27  INFO      Cycle #4 — 18:37:27 UTC
+2026-07-20 02:37:28  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:37:28  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:37:28  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:37:33  INFO      Cycle #52 — 18:37:33 UTC
+2026-07-20 02:37:34  INFO        BBC  →  34 articles fetched,   1 new
+2026-07-20 02:37:34  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:37:34  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:37:49  INFO      =======================================================
+2026-07-20 02:37:49  INFO      News Fetcher started — polling every 30 seconds
+2026-07-20 02:37:49  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 02:37:49  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 02:37:49  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 02:37:49  INFO      Press Ctrl+C to stop
+2026-07-20 02:37:49  INFO      =======================================================
+2026-07-20 02:37:49  INFO      Cycle #1 — 18:37:49 UTC
+2026-07-20 02:37:49  INFO      Cycle #34 — 18:37:49 UTC
+2026-07-20 02:37:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:37:49  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:37:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:37:50  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:37:50  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:37:50  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:38:20  INFO      Cycle #2 — 18:38:20 UTC
+2026-07-20 02:38:20  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:38:20  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:38:21  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:38:53  INFO      =======================================================
+2026-07-20 02:38:53  INFO      News Fetcher started — polling every 30 seconds
+2026-07-20 02:38:53  INFO      Sources: NPR (text.npr.org) | BBC (RSS) | CNN (lite.cnn.com)
+2026-07-20 02:38:53  INFO      Database: D:\Deepin\Programming\20260719 OpenGovernment\news_fetcher\news.db
+2026-07-20 02:38:53  INFO      Strategy: headlines every cycle | body text once (has_body flag)
+2026-07-20 02:38:53  INFO      Press Ctrl+C to stop
+2026-07-20 02:38:53  INFO      =======================================================
+2026-07-20 02:38:53  INFO      Cycle #1 — 18:38:53 UTC
+2026-07-20 02:38:54  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:38:54  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:38:54  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:39:24  INFO      Cycle #2 — 18:39:24 UTC
+2026-07-20 02:39:25  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:39:25  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:39:25  INFO        NPR  →  20 articles fetched,   2 new
+2026-07-20 02:39:55  INFO      Cycle #3 — 18:39:55 UTC
+2026-07-20 02:39:56  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:39:56  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:39:56  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:40:26  INFO      Cycle #4 — 18:40:26 UTC
+2026-07-20 02:40:27  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:40:27  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:40:27  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:40:57  INFO      Cycle #5 — 18:40:57 UTC
+2026-07-20 02:40:58  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:40:58  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:40:58  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:41:28  INFO      Cycle #6 — 18:41:28 UTC
+2026-07-20 02:41:29  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:41:29  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:41:29  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:41:59  INFO      Cycle #7 — 18:41:59 UTC
+2026-07-20 02:42:00  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:42:00  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:42:00  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:42:30  INFO      Cycle #8 — 18:42:30 UTC
+2026-07-20 02:42:31  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:42:31  INFO        BBC  →  34 articles fetched,   0 new
+2026-07-20 02:42:31  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:43:01  INFO      Cycle #9 — 18:43:01 UTC
+2026-07-20 02:43:02  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:43:02  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:43:02  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:43:32  INFO      Cycle #10 — 18:43:32 UTC
+2026-07-20 02:43:33  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:43:33  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:43:33  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:43:33  INFO        📊 DB: 163 total | 9 with body | (BBC: 38 | CNN: 103 | NPR: 22)
+2026-07-20 02:44:03  INFO      Cycle #11 — 18:44:03 UTC
+2026-07-20 02:44:04  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:44:04  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:44:04  INFO        BBC  →  35 articles fetched,   1 new
+2026-07-20 02:44:34  INFO      Cycle #12 — 18:44:34 UTC
+2026-07-20 02:44:35  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:44:35  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:44:35  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:45:05  INFO      Cycle #13 — 18:45:05 UTC
+2026-07-20 02:45:06  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:45:06  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:45:06  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:45:36  INFO      Cycle #14 — 18:45:36 UTC
+2026-07-20 02:45:37  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:45:37  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:45:37  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:46:07  INFO      Cycle #15 — 18:46:07 UTC
+2026-07-20 02:46:08  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:46:08  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:46:08  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:46:38  INFO      Cycle #16 — 18:46:38 UTC
+2026-07-20 02:46:38  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:46:39  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:46:39  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:47:09  INFO      Cycle #17 — 18:47:09 UTC
+2026-07-20 02:47:10  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:47:10  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:47:10  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:47:40  INFO      Cycle #18 — 18:47:40 UTC
+2026-07-20 02:47:40  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:47:40  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:47:40  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:48:10  INFO      Cycle #19 — 18:48:10 UTC
+2026-07-20 02:48:11  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:48:11  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:48:11  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:48:41  INFO      Cycle #20 — 18:48:41 UTC
+2026-07-20 02:48:42  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:48:42  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:48:42  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:48:42  INFO        📊 DB: 164 total | 9 with body | (BBC: 39 | CNN: 103 | NPR: 22)
+2026-07-20 02:49:12  INFO      Cycle #21 — 18:49:12 UTC
+2026-07-20 02:49:13  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:49:13  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:49:13  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:49:43  INFO      Cycle #22 — 18:49:43 UTC
+2026-07-20 02:49:44  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:49:44  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:49:44  INFO        BBC  →  35 articles fetched,   0 new
+2026-07-20 02:50:14  INFO      Cycle #23 — 18:50:14 UTC
+2026-07-20 02:50:15  INFO        NPR  →  20 articles fetched,   0 new
+2026-07-20 02:50:15  INFO        CNN  → 101 articles fetched,   0 new
+2026-07-20 02:50:15  INFO        BBC  →  35 articles fetched,   0 new
